@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://vigilant-engelbart-767a09.netlify.app/"
 languageCode: en-us
 title: New_Hugo_site
 theme: PaperMod
