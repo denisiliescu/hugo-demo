@@ -1,0 +1,11 @@
+baseURL: ""
+languageCode: en-us
+title: New_Hugo_site
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: price
+      name: Prices
+      url: /prices/
+      weight: 10
